@@ -2,3 +2,5 @@ git rebase tutorial
 
 mybranch
 a
+b
+c
