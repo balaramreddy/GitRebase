@@ -1,0 +1,195 @@
+Git 
+---------
+git config --global user.name "balaram Reddy"
+git config --global user.email "balaramreddyappala@gmail.com"
+git config --list 
+git config user.name
+git congig user.email
+gti branch 
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/balaramreddy/Crud.git
+git push -u origin master
+
+https://github.com/balaramreddy/enmaxnew.git
+…or push an existing repository from the command line
+git remote add origin https://github.com/balaramreddy/Proj.git
+git branch -M main
+git push -u origin main
+
+git remote -v
+
+-u upstream 
+
+git checkout master --> switch b/w branches
+
+git reset head~1
+
+
+rmdir /s .git   =>This will undo the changes made by the “init” command.
+rmdir .git      => 
+
+git commands
+-------------
+git init
+git add .
+git commit -m 'first commit'
+git push heroku master
+
+https://git.heroku.com/enmax-db.git
+
+
+if u want to remove existing commits
+------------------------------------
+create a file .gitignore in that give the folders names what ever u want to remove.
+git reset
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku master
+
+
+git checkout -b main 		-> to create new branch
+git status/git branch		-> to check the git branch
+git branch -D master		-> to delete the master branch
+
+
+
+error: remote origin already exists.
+-------------------------------------
+
+git remote rm origin   - remove already existing origin, then add another origin
+https://github.com/balaramreddy/rolebased-login.git
+
+
+
+
+
+
+
+<!-- Footer -->
+<footer class="page-footer font-small blue">
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">© 2020 Copyright:
+      <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+    </div>
+    <!-- Copyright -->
+  
+  </footer>
+  <!-- Footer -->
+  
+  
+enmax-iZyfSF^j9J%X
+mongodb+srv://enmax:iZyfSF^j9J%X@cluster0.lvgnn.mongodb.net/enmaxdb?retryWrites=true&w=majority
+mongodb+srv://enmax:<password>@cluster0.lvgnn.mongodb.net/test
+
+employee-YkXngAAnybULlbWT
+mongodb+srv://employeedb:YkXngAAnybULlbWT@cluster0.wfyuz.mongodb.net/empdb?retryWrites=true&w=majority
+
+
+filmora -10403029CF3644154841651AF141E800
+
+
+
+ param1: string;
+param2: string;
+constructor(private route: ActivatedRoute) {
+    this.param1 = this.route.snapshot.params.param1;
+    this.param2 = this.route.snapshot.params.param2;
+}
+
+
+runner.instance_.gameover = () =>{
+
+Assign the ticket
+acknowledge the ticket
+then check the priority of ticket
+check the data with hvr, talend, spotfier.
+
+cache refresh - report last update
+databaselast update - ods
+if data is not in ods check with spotfier.	
+if data is not coming to spotfier check with dev team
+
+
+1. ticket reason how many tickets.
+2. fix using close notes.
+3. preventions
+
+
+assignment
+T#b84UgAYP*K%%T5K(a) - 50309 000host passwrd
+
+ramassignment
+eYQ$y4R(!xd$nopGU&NK - 50309 000host passwrd
+
+
+@angular/cli
+@angular/core
+rxjs
+------------------------------------------------------------------------------------------
+git basics
+-------------\
+create folder
+
+git init
+
+
+how to pull the code from git repository
+--------------------------------------------
+git clone https://github.com/balaramreddy/Proj.git
+
+
+git add .
+
+
+echo "# enmax-prod" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -m main
+git remote add origin https://github.com/balaramreddy/enmax-prod.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/balaramreddy/enmax-prod.git
+git branch -M main
+git push -u origin main
+
+https://github.com/balaramreddy/enmaxnew.git
+
+
+git branch (-m | -M) [<oldbranch>] <newbranch>
+git branch (-c | -C) [<oldbranch>] <newbranch>
+git branch (-d | -D) [-r] <branchname>…​
+git branch --edit-description [<branchname>]
+
+
+chrome://net-internals/#proxy
+
+
+ تیز سمی 
+ 
+ 
+ https://docs.emmet.io/cheat-sheet/
+ 
+ <!-- figure>img:sizes+figcaption^br 
+        details>summary+p*2-->
+		
+        <img src="https://i.pinimg.com/originals/dd/58/56/dd58562852a713891836b6291ea6c4ad.jpg" alt="Trulli" style="width:25%;height: 25%;">
+        <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+
+
+
+it is completely free
+
+Signup to freecodecamp:https://www.freecodecamp.org/
+
+click on: get started (it's free)
+
+then take :Responsive web Design Certification(300 hrs)
+
+once you complete this course get the certificate like this !!!
